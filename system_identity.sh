@@ -10,7 +10,7 @@
 # ==============================================================
 
 # --- Student and project variables ---
-STUDENT_NAME="Vaibhav Gupta"                # Student's full name
+STUDENT_NAME="Siddharth Jain"                # Student's full name
 SOFTWARE_CHOICE="Git"                 # Chosen open-source software for the audit
 
 # --- Gathering system information using command substitution ---

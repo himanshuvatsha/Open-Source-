@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================
 # Script 1: System Identity Report
-# Author: Vaibhav Gupta | Course: Open Source Software
+# Author: siddharth jain| Course: Open Source Software
 # Purpose: Displays a welcome-screen-style system identity card
 #          showing kernel, user, uptime, distribution, and
 #          license information about the running Linux system.

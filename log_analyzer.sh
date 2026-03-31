@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================
 # Script 4: Log File Analyzer
-# Author: siddharth jain| Course: Open Source Software
+# Author: Himanshu vatsha| Course: Open Source Software
 # Purpose: Reads a log file line by line, counts occurrences
 #          of a keyword (like ERROR or WARNING), prints a
 #          summary, and shows the last 5 matching lines.
